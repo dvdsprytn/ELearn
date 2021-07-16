@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ELearn</string>
+    <string name="judul">Matematika</string>
+    <string name="materi">Matematika</string>
+    <string name="latihan_soal">Latihan Soal</string>
+    <string name="artikel">Artikel</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="sosial_media">Sosial Media</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="daftar_materi">Daftar Materi</string>
+    <string name="bilangan">Bilangan Bulat</string>
+    <string name="himpulan">Himpunan</string>
+    <string name="aljabar">Aljabar</string>
+    <string name="persamaan">PLSV dan PtLSV</string>
+    <string name="materi_bilangan">sd</string>
+    <string name="bantuan_tittle">Cara Menggunakan Aplikasi</string>
+    <string name="tentang_elearn">Tentang Elearn</string>
+    <string name="todo">TODO</string>
+    <string name="kuncijawaban">Kunci Jawaban</string>
+    <string name="artikel1">Biografi Archimedes</string>
+    <string name="artikel2">Biografi Diophantus</string>
+    <string name="artikel3">Biografi Phytagoras</string>
+    <string name="artikel4">Judul Artikel 3</string>
+    <string name="contoh_soal">Contoh Soal</string>
+    <string name="contoh_soal_aljabar">Contoh Soal Aljabar</string>
+    <string name="contoh_soal_himpunan">Contoh Soal Himpunan</string>
+    <string name="contoh_soal_bilangan">Contoh Soal Bilangan</string>
+    <string name="contoh_soal_persamaan">Contoh Soal PLSV dan PtLSV</string>
+    <string name="latihanaljabar">Latihan Soal Aljabar</string>
+    <string name="latihanbilangan">Latihan Soal Bilangan</string>
+    <string name="latihanhimpunan">Latihan Soal Himpunan</string>
+    <string name="latihanpersamaan">Latihan Soal PLSV dan PtLSV</string>
+    <string name="kuncialjabar">Kunci Jawaban Aljabar</string>
+    <string name="kuncibilangan">Kunci Jawaban Bilangan</string>
+    <string name="kuncihimpunan">Kunci Jawaban Himpunan</string>
+    <string name="kuncipersamaan">Kunci Jawaban PLSV dan PtLSV</string>
+
+
+</resources>

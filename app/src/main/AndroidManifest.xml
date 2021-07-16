@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.elearn">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/elearn_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/elearn_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.NoActionBar">
+        <activity android:name=".latihansoal.kunci.KunciPersamaan"></activity>
+        <activity android:name=".latihansoal.kunci.KunciBilangan" />
+        <activity android:name=".latihansoal.kunci.KunciAljabar" />
+        <activity android:name=".latihansoal.kunci.KunciHimpunan" />
+        <activity android:name=".artikel.ArtikelLengkapTiga" />
+        <activity android:name=".artikel.ArtikelLengkapDua" />
+        <activity android:name=".artikel.ArtikelLengkapSatu" />
+        <activity android:name=".DaftarArtikel" />
+        <activity android:name=".TentangKami" />
+        <activity android:name=".Bantuan" />
+        <activity android:name=".latihansoal.LatihanSoalPersamaan" />
+        <activity android:name=".latihansoal.LatihanSoalHimpunan" />
+        <activity android:name=".latihansoal.LatihanSoalBilangan" />
+        <activity android:name=".latihansoal.LatihanSoalAljabar" />
+        <activity android:name=".daftarmateri.contohsoal.ContohPersamaan" />
+        <activity android:name=".daftarmateri.contohsoal.ContohBilangan" />
+        <activity android:name=".daftarmateri.contohsoal.ContohAljabar" />
+        <activity android:name=".daftarmateri.contohsoal.ContohHimpunan" />
+        <activity android:name=".DaftarLatihanSoal" />
+        <activity android:name=".daftarmateri.MateriPersamaanPertidaksamaan" />
+        <activity android:name=".daftarmateri.MateriAljabar" />
+        <activity android:name=".daftarmateri.MateriHimpunan" />
+        <activity android:name=".daftarmateri.MateriBilangan" />
+        <activity android:name=".DaftarMateri" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
